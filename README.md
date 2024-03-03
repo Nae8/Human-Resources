@@ -24,3 +24,5 @@ gulp serve
 
 ### Routing
 Try to understand how the Routing works at `routes.php` of your system folder and check `sample.php` & `test-link.php` for sample usage.
+
+Pogi si Edgar at si Joshua
